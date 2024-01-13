@@ -335,7 +335,7 @@ footer .sponspors-area{
     }
     .team-image {
         grid-template-columns:repeat(2, 1fr);
-        max-width: 100%;
+        max-width: 90%;
         gap: 15px;
     }
     
@@ -362,9 +362,10 @@ footer .sponspors-area{
         margin-right: 25px;
     }
     .features-image .badge {
-        padding: 22px 123px;
+        padding: 15px 23px;
         position: static;
-        padding-bottom: 15px;
+        padding-bottom: 30px;
+        margin: 0px auto;
     }
     .fact-card {
         display: grid;
