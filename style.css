@@ -369,7 +369,7 @@ footer .sponspors-area{
     }
     .fact-card {
         display: flex;
-        margin-left: 148px;
+        margin-left: 40px;
         flex-direction: column;
     }
     .fact-area > h1 {
